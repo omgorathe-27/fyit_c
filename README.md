@@ -1,2 +1,2 @@
 # fyit_c
-my first demo
+my first demo in class
